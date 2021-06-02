@@ -1,6 +1,6 @@
 # Calculadora
     Necessário ter o python instalado na máquina.
-# Intruções para execução
+# Instruções para execução
     
 
 1º - Abrir o cmd/prompt e localizar a raiz do projeto.
